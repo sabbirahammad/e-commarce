@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": "722c",
+      "name": "shart",
+      "price": "666",
+      "category": "women",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749878843/wubl2quz3qagskk2nqzk.jpg"
+      ],
+      "isTrending": false,
+      "isTopProduct": false,
+      "description": "asfhiwqerf0qowfrw"
+    },
+    {
+      "id": "c3b0",
+      "name": "shart",
+      "price": "000",
+      "category": "women",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749878997/dhseufq77rmiiyj7jicd.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749879005/uk5qxn0aespcsc4yvehg.jpg",
+        "",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749879019/owahoqvgclvngw4erupk.jpg"
+      ],
+      "isTrending": false,
+      "isTopProduct": false,
+      "description": "fdsafdsasfed"
+    },
+    {
+      "id": "6f32",
+      "name": "new",
+      "price": "681",
+      "category": "Women",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749879525/ly4xamqhz76etveohsiz.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "hi,hello"
+    },
+    {
+      "id": "d648",
+      "name": "borka",
+      "price": "123",
+      "category": "man",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749881045/sixkbpfvnacqdqp4grou.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749881051/ddgrvghqwegzgsmkvirg.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749881055/w0j1q7uobirenkucfytn.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": true,
+      "description": "hi,my name is sabbir"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    },
+    {
+      "id": "3137",
+      "name": "t",
+      "price": "444",
+      "category": "Male",
+      "images": [
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883831/io4kshipmpr9gxaiwkt5.jpg",
+        "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883837/irc0mrjwgwccrvwh2pxr.jpg"
+      ],
+      "isTrending": true,
+      "isTopProduct": false,
+      "description": "dasdfasdd"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Men",
+      "id": "3b72"
+    },
+    {
+      "name": "Women",
+      "id": "dec0"
+    },
+    {
+      "name": "Custom Print",
+      "id": "9776"
+    },
+    {
+      "name": "Premium",
+      "id": "0d24"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "subject": "Order Issue",
+      "message": "I have not received my order yet.",
+      "status": "new",
+      "reply": ""
+    }
+  ],
+  "categoryBanners": {
+    "categoryBanners": {
+    "Women": "https://res.cloudinary.com/dpgags9kx/image/upload/v1749883828/xempay6vgz8te0qvc69k.jpg",
+    "Men": "https://res.cloudinary.com/your-link.jpg",
+    "Kids": "https://res.cloudinary.com/your-link.jpg"
+  }
+  }
+}
